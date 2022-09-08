@@ -69,7 +69,7 @@ studing english.
 ![ReactHookForm](https://img.shields.io/badge/reacthookform-D5ECF2?style=for-the-badge&logo=reacthookform)
 
 <hr/>
-<div style="display: flex; flex-direction: row; justify-content: space-around">
+<div style="display: flex; flex-direction: row; justify-content: center">
 <div style="margin: 10px">
 <a href="mailto:yurakholoimov@ya.ru">
 <img src="https://i2.wp.com/www.macitynet.it/wp-content/uploads/2014/06/MetroUI-Other-Mail-icon.jpg" style="height: 40px; margin: 8px">
