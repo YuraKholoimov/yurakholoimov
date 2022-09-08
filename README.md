@@ -55,11 +55,11 @@ studing english. <br/>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-090909?style=for-the-badge&logo=bootstrap)
 ![ReactHookForm](https://img.shields.io/badge/reacthookform-090909?style=for-the-badge&logo=reacthookform)
 
- - 🔭 I’m currently working on:
+ - 🔭 **I’m currently working on:**
     - Brain Storm: https://sashapolyanski.github.io/BrainStorm/
 
    
-- 🌱 I’m currently learning:
+- 🌱 **I’m currently learning:**
     - Vue JS
     - Node JS
     - Next JS
