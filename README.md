@@ -34,19 +34,21 @@ to study *Node.js*, because my next
 focus is to become a Full-Stack
 Developer. Usually I like spend my
 leisure time on Codewars and
-studing english. 
+studing english.
 <br/>
 [![codewars](https://www.codewars.com/users/YuraKholoimov/badges/small)](https://www.codewars.com/users/YuraKholoimov)
+
 - 🔭 **I’m currently working on:**
     - Brain Storm: https://sashapolyanski.github.io/BrainStorm/
 - 🌱 **I’m currently learning:**
     - Vue JS
     - Node JS
     - Next JS
-- 📄 **Know about my experiences**
-  <a href="https://yurakholoimov.github.io/portfolio" style="position: absolute">
-  <img src="https://i.pinimg.com/originals/4b/42/2a/4b422ab4ce256c6c8f5f6ae30129d86a.gif" style="height: 50px;">
-  </a>
+    - 📄 **Know about my experiences**
+  <div style="position: relative"><a href="https://yurakholoimov.github.io/portfolio" style="position: absolute; top: -40px; left: 250px">
+    <img src="https://i.pinimg.com/originals/4b/42/2a/4b422ab4ce256c6c8f5f6ae30129d86a.gif" style="height: 50px;">
+    </a>
+  </div>
 
 ### Stack<br/>
 
