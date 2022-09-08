@@ -39,14 +39,12 @@ studing english.
 [![codewars](https://www.codewars.com/users/YuraKholoimov/badges/small)](https://www.codewars.com/users/YuraKholoimov)
 - 🔭 **I’m currently working on:**
     - Brain Storm: https://sashapolyanski.github.io/BrainStorm/
-
-
 - 🌱 **I’m currently learning:**
     - Vue JS
     - Node JS
     - Next JS
 - 📄 **Know about my experiences**
-  <a href="https://yurakholoimov.github.io/portfolio">
+  <a href="https://yurakholoimov.github.io/portfolio" style="position: absolute">
   <img src="https://i.pinimg.com/originals/4b/42/2a/4b422ab4ce256c6c8f5f6ae30129d86a.gif" style="height: 50px;">
   </a>
 
