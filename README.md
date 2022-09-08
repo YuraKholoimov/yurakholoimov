@@ -67,7 +67,6 @@ studing english. <br/>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-D5ECF2?style=for-the-badge&logo=bootstrap)
 ![ReactHookForm](https://img.shields.io/badge/reacthookform-D5ECF2?style=for-the-badge&logo=reacthookform)
 
-<br/>
 <hr/>
 <div style="display: flex; justify-content: space-around">
 <div style="margin: 10px">
