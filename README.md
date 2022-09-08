@@ -36,9 +36,16 @@ leisure time on Codewars and
 studing english. <br/>
 
 
+ - 🔭 **I’m currently working on:**
+    - Brain Storm: https://sashapolyanski.github.io/BrainStorm/
 
+   
+- 🌱 **I’m currently learning:**
+    - Vue JS
+    - Node JS
+    - Next JS
 
-### Stack:<br/>
+### Stack<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-D5ECF2?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Typescript-D5ECF2?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-D5ECF2?style=for-the-badge&logo=react)
@@ -55,17 +62,11 @@ studing english. <br/>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-D5ECF2?style=for-the-badge&logo=bootstrap)
 ![ReactHookForm](https://img.shields.io/badge/reacthookform-D5ECF2?style=for-the-badge&logo=reacthookform)
 
- - 🔭 **I’m currently working on:**
-    - Brain Storm: https://sashapolyanski.github.io/BrainStorm/
+### follow me 
+<img src="https://avatars.mds.yandex.net/i?id=227d5442ddb2f1fe0a8852c63eddc778-5142520-images-thumbs&n=13" style="height: 100px"><br/>
+<a href="mailto:yurakholoimov@ya.ru"><img src="https://i2.wp.com/www.macitynet.it/wp-content/uploads/2014/06/MetroUI-Other-Mail-icon.jpg" style="height: 40px"></a>
+<a href="https://www.linkedin.com/in/yuriykholoimov/"><img src="https://www.freeiconspng.com/uploads/linkedin-icon-19.png" style="height: 40px" /></a>
 
-   
-- 🌱 **I’m currently learning:**
-    - Vue JS
-    - Node JS
-    - Next JS
 
-### follow me
-yurakholoimov@ya.ru
-https://www.linkedin.com/in/yuriykholoimov/
 yurakholoimov.github.io/portfolio
 [![codewars](https://www.codewars.com/users/YuraKholoimov/badges/small)](https://www.codewars.com/users/YuraKholoimov)
