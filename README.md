@@ -47,7 +47,7 @@ studing english. <br/>
 
 
 - 📄 **Know about my experiences** https://yurakholoimov.github.io/portfolio
-- 
+
 ### Stack<br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-D5ECF2?style=for-the-badge&logo=javascript)
@@ -68,7 +68,7 @@ studing english. <br/>
 
 <img src="https://i.pinimg.com/originals/4b/42/2a/4b422ab4ce256c6c8f5f6ae30129d86a.gif" style="height: 150px"><br/>
 <hr/>
-<div style="display: flex; justify-content: space-around; width: 100%">
+<div style="display: flex; justify-content: space-around">
 <div style="margin: 10px">
 <a href="mailto:yurakholoimov@ya.ru"><img src="https://i2.wp.com/www.macitynet.it/wp-content/uploads/2014/06/MetroUI-Other-Mail-icon.jpg" style="height: 40px; margin: 8px"></a>
 <a href="https://www.linkedin.com/in/yuriykholoimov/"><img src="https://www.freeiconspng.com/uploads/linkedin-icon-19.png" style="height: 40px; margin: 8px" /></a>
