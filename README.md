@@ -46,6 +46,7 @@ studing english. <br/>
     - Next JS
 
 ### Stack<br/>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-D5ECF2?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Typescript-D5ECF2?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-D5ECF2?style=for-the-badge&logo=react)
@@ -62,11 +63,19 @@ studing english. <br/>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-D5ECF2?style=for-the-badge&logo=bootstrap)
 ![ReactHookForm](https://img.shields.io/badge/reacthookform-D5ECF2?style=for-the-badge&logo=reacthookform)
 
-### follow me 
-<img src="https://avatars.mds.yandex.net/i?id=227d5442ddb2f1fe0a8852c63eddc778-5142520-images-thumbs&n=13" style="height: 100px"><br/>
-<a href="mailto:yurakholoimov@ya.ru"><img src="https://i2.wp.com/www.macitynet.it/wp-content/uploads/2014/06/MetroUI-Other-Mail-icon.jpg" style="height: 40px"></a>
-<a href="https://www.linkedin.com/in/yuriykholoimov/"><img src="https://www.freeiconspng.com/uploads/linkedin-icon-19.png" style="height: 40px" /></a>
+
+
+<img src="https://i.pinimg.com/originals/4b/42/2a/4b422ab4ce256c6c8f5f6ae30129d86a.gif" style="height: 150px"><br/>
+<hr/>
+<div>
+<a href="mailto:yurakholoimov@ya.ru"><img src="https://i2.wp.com/www.macitynet.it/wp-content/uploads/2014/06/MetroUI-Other-Mail-icon.jpg" style="height: 40px; margin: 8px"></a>
+<a href="https://www.linkedin.com/in/yuriykholoimov/"><img src="https://www.freeiconspng.com/uploads/linkedin-icon-19.png" style="height: 40px; margin: 8px" /></a>
+<a href="https://yurakholoimov.github.io/portfolio"><img src="https://avatars.mds.yandex.net/i?id=2a0000017a015b978b256a4aa496aacd6a58-4592763-images-thumbs&n=13" style="height: 40px; margin: 8px" /></a>
+
+</div>
+
 
 
 yurakholoimov.github.io/portfolio
 [![codewars](https://www.codewars.com/users/YuraKholoimov/badges/small)](https://www.codewars.com/users/YuraKholoimov)
+
