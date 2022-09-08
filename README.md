@@ -45,6 +45,9 @@ studing english. <br/>
     - Node JS
     - Next JS
 
+
+- 📄 **Know about my experiences** https://yurakholoimov.github.io/portfolio
+- 
 ### Stack<br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-D5ECF2?style=for-the-badge&logo=javascript)
