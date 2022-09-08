@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## Frontend developer
 
 ### About me
+
 Frontend developer with experience
 in creating SPA using **React, Redux,
 Typescript, HTML, CSS, JS, cross-
@@ -35,11 +36,10 @@ Developer. Usually I like spend my
 leisure time on Codewars and
 studing english. <br/>
 
-
- - 🔭 **I’m currently working on:**
+- 🔭 **I’m currently working on:**
     - Brain Storm: https://sashapolyanski.github.io/BrainStorm/
 
-   
+
 - 🌱 **I’m currently learning:**
     - Vue JS
     - Node JS
@@ -63,8 +63,6 @@ studing english. <br/>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-D5ECF2?style=for-the-badge&logo=bootstrap)
 ![ReactHookForm](https://img.shields.io/badge/reacthookform-D5ECF2?style=for-the-badge&logo=reacthookform)
 
-
-
 <img src="https://i.pinimg.com/originals/4b/42/2a/4b422ab4ce256c6c8f5f6ae30129d86a.gif" style="height: 150px"><br/>
 <hr/>
 <div style="display: flex; justify-content: space-around">
@@ -73,8 +71,10 @@ studing english. <br/>
 <a href="https://www.linkedin.com/in/yuriykholoimov/"><img src="https://www.freeiconspng.com/uploads/linkedin-icon-19.png" style="height: 40px; margin: 8px" /></a>
 <a href="https://yurakholoimov.github.io/portfolio"><img src="https://avatars.mds.yandex.net/i?id=2a0000017a015b978b256a4aa496aacd6a58-4592763-images-thumbs&n=13" style="height: 40px; margin: 8px" /></a>
 </div>
+<div>
 
 [![codewars](https://www.codewars.com/users/YuraKholoimov/badges/small)](https://www.codewars.com/users/YuraKholoimov)
+</div>
 </div>
 
 
