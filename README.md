@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/YuraKholoimov/yurakholoimov/blob/main/assets/YK__logo_white.png)
+![Header](https://github.com/YuraKholoimov/yurakholoimov/blob/main/assets/YK__code_logo.png)
 
 ## Frontend developer 
 
@@ -35,7 +35,7 @@ Developer. Usually I like spend my
 leisure time on Codewars and
 studing english. <br/>
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+
 
 
 ### Stack:<br/>
@@ -68,3 +68,4 @@ studing english. <br/>
 yurakholoimov@ya.ru
 https://www.linkedin.com/in/yuriykholoimov/
 yurakholoimov.github.io/portfolio
+[![codewars](https://www.codewars.com/users/YuraKholoimov/badges/small)](https://www.codewars.com/users/YuraKholoimov)
