@@ -68,10 +68,7 @@ studing english. <br/>
 ![ReactHookForm](https://img.shields.io/badge/reacthookform-D5ECF2?style=for-the-badge&logo=reacthookform)
 
 <hr/>
-<div style="display: flex; justify-content: space-around">
-
-[![codewars](https://www.codewars.com/users/YuraKholoimov/badges/small)](https://www.codewars.com/users/YuraKholoimov)
-
+<div style="display: flex; flex-direction: row; justify-content: space-around">
 <div style="margin: 10px">
 <a href="mailto:yurakholoimov@ya.ru">
 <img src="https://i2.wp.com/www.macitynet.it/wp-content/uploads/2014/06/MetroUI-Other-Mail-icon.jpg" style="height: 40px; margin: 8px">
@@ -80,7 +77,7 @@ studing english. <br/>
 <a href="https://yurakholoimov.github.io/portfolio"><img src="https://avatars.mds.yandex.net/i?id=2a0000017a015b978b256a4aa496aacd6a58-4592763-images-thumbs&n=13" style="height: 40px; margin: 8px" /></a>
 </div>
 
-
+[![codewars](https://www.codewars.com/users/YuraKholoimov/badges/small)](https://www.codewars.com/users/YuraKholoimov)
 
 </div>
 
