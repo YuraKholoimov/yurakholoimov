@@ -14,22 +14,22 @@ Here are some ideas to get you started:
 -->
 ![Header](https://github.com/YuraKholoimov/yurakholoimov/blob/main/assets/YK__code_logo.png)
 
-## Frontend developer 
+## Frontend developer
 
 ### About me
-Front-End developer with experience
-in creating SPA using React, Redux,
+Frontend developer with experience
+in creating SPA using **React, Redux,
 Typescript, HTML, CSS, JS, cross-
 browser adaptive, responsive
-development, CSS-preprocessors.
+development, CSS-preprocessors.**
 Implemented flow-authorization,
 notification, forms (Formik and
-React Hook Form). Created Unit
+React Hook Form). Created **Unit
 tests, Snapshot tests, component
-views in Storybook.
+views in Storybook.**
 I'm always looking forward to
 improve my expertise. I'm planing
-to study Node.js, because my next
+to study *Node.js*, because my next
 focus is to become a Full-Stack
 Developer. Usually I like spend my
 leisure time on Codewars and
@@ -74,8 +74,5 @@ studing english. <br/>
 
 </div>
 
-
-
-yurakholoimov.github.io/portfolio
 [![codewars](https://www.codewars.com/users/YuraKholoimov/badges/small)](https://www.codewars.com/users/YuraKholoimov)
 
