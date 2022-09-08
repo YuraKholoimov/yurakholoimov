@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/YuraKholoimov/yurakholoimov/blob/main/assets/Untitled.png)
+[![Header](https://github.com/YuraKholoimov/yurakholoimov/blob/main/assets/YK__logo_white.png)]
 
 Header!!!
 
