@@ -39,21 +39,21 @@ studing english. <br/>
 
 
 ### Stack:<br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-436A6B?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/Typescript-436A6B?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-436A6B?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/redux-toolkit-436A6B?style=for-the-badge&logo=redux)
-![JavaScript](https://img.shields.io/badge/nodejs-436A6B?style=for-the-badge&logo=npm)
-![Express](https://img.shields.io/badge/express-436A6B?style=for-the-badge&logo=express)
-![HTML5](https://img.shields.io/badge/html-436A6B?style=for-the-badge&logo=html5)
-![JavaScript](https://img.shields.io/badge/SaSS-436A6B?style=for-the-badge&logo=sass)
-![Jest](https://img.shields.io/badge/unit-436A6B?style=for-the-badge&logo=jest)
-![Git](https://img.shields.io/badge/git-436A6B?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/linux-436A6B?style=for-the-badge&logo=Linux)
-![Axios](https://img.shields.io/badge/axios-436A6B?style=for-the-badge&logo=axios)
-![MUI](https://img.shields.io/badge/mui-436A6B?style=for-the-badge&logo=MUI)
-![Bootstrap](https://img.shields.io/badge/bootstrap-436A6B?style=for-the-badge&logo=bootstrap)
-![ReactHookForm](https://img.shields.io/badge/reacthookform-436A6B?style=for-the-badge&logo=reacthookform)
+![JavaScript](https://img.shields.io/badge/JavaScript-80CACC?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/Typescript-80CACC?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-80CACC?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/redux-toolkit-80CACC?style=for-the-badge&logo=redux)
+![JavaScript](https://img.shields.io/badge/nodejs-80CACC?style=for-the-badge&logo=npm)
+![Express](https://img.shields.io/badge/express-80CACC?style=for-the-badge&logo=express)
+![HTML5](https://img.shields.io/badge/html-80CACC?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/SaSS-80CACC?style=for-the-badge&logo=sass)
+![Jest](https://img.shields.io/badge/unit-80CACC?style=for-the-badge&logo=jest)
+![Git](https://img.shields.io/badge/git-80CACC?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/linux-80CACC?style=for-the-badge&logo=Linux)
+![Axios](https://img.shields.io/badge/axios-80CACC?style=for-the-badge&logo=axios)
+![MUI](https://img.shields.io/badge/mui-80CACC?style=for-the-badge&logo=MUI)
+![Bootstrap](https://img.shields.io/badge/bootstrap-80CACC?style=for-the-badge&logo=bootstrap)
+![ReactHookForm](https://img.shields.io/badge/reacthookform-80CACC?style=for-the-badge&logo=reacthookform)
 
  - 🔭 **I’m currently working on:**
     - Brain Storm: https://sashapolyanski.github.io/BrainStorm/
