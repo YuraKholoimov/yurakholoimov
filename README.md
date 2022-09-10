@@ -43,7 +43,6 @@ studing english.
 - 🌱 **I’m currently learning:**
     - Vue JS
     - Node JS
-    - Next JS
 - 📄 **Know about my experiences** <a href="https://yurakholoimov.github.io/portfolio" style="position: absolute; top: -40px; left: 250px">
     <img src="https://i.pinimg.com/originals/4b/42/2a/4b422ab4ce256c6c8f5f6ae30129d86a.gif" style="height: 50px;">
     </a>
